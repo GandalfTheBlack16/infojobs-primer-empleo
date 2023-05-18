@@ -1,0 +1,17 @@
+.filter__box {
+    background-color: #c5c5c5;
+    padding: 1rem;
+    display: flex;
+    border-radius: 4px;
+}
+
+.filter__item {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 5px;
+}
+
+.filter__box label {
+    color: #1b1b1b;
+}

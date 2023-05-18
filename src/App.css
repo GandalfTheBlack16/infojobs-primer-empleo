@@ -6,11 +6,58 @@ body {
 
   color-scheme: light dark;
   background-color: #f5f5f5;
+  color: #797a7a;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+}
 
+header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 1.5rem;
+  margin: auto;
+}
+
+main {
+  width: 70%;
+  margin: auto;
+}
+
+button {
+  padding: 5px;
+  border: 1px solid #167db7;
+  border-radius: 4px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button.primary {
+  background-color: #fff;
+  color: #167db7;
+}
+
+button.primary:hover {
+  background-color: #167cb72d;
+}
+
+button.accent {
+  background-color: #167db7;
+  color: #fff;
+}
+
+button.accent:hover {
+  background-color: #167cb7ba;
+}
+
+input {
+  background-color: #f5f5f5;
+  color: #585858;
+  padding: 5px;
 }

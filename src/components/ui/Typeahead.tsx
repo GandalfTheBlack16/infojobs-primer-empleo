@@ -1,37 +1,23 @@
-import { useState } from 'react'
 import { type Category } from '../../types'
 import './Typeahead.css'
+import { useTypeahead } from '../../hooks/useTypeahead'
 
-export function Typeahead (props: { id: string | undefined, options: Category[], placeholder: string }) {
-  const { id, options, placeholder } = props
+export function Typeahead (props: { id: string | undefined, options: Category[], placeholder: string, onTypeaheadChange: (category: Category) => void }) {
+  const { id, options, placeholder, onTypeaheadChange } = props
 
-  const [selectedCategory, setSelectedCategory] = useState<Category | null>(null)
-  const [filteredOptions, setFilteredOptions] = useState<Category[] | []>(options)
-  const [showDropdown, setShowDropdown] = useState<boolean>(false)
+  const {
+    textField,
+    filteredOptions,
+    showDropdown,
+    handleChange,
+    handleClick,
+    handleBlur,
+    handleSelectItem
+  } = useTypeahead(options)
 
-  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = event.target.value
-    if (!value) {
-      setShowDropdown(false)
-      setSelectedCategory(null)
-    }
-    const filtered = options.filter(item => item.label.toLowerCase().includes(value.toLowerCase().trim()))
-    setFilteredOptions(filtered)
-    setShowDropdown(filtered.length > 0)
-  }
-
-  const handleClick = () => {
-    setShowDropdown(true)
-  }
-
-  const handleBlur = () => {
-    setTimeout(() => {
-      setShowDropdown(false)
-    }, 100)
-  }
-
-  const handleSelectItem = (item: Category) => {
-    setSelectedCategory(item)
+  const handleCategoryChange = (category: Category) => {
+    handleSelectItem(category)
+    onTypeaheadChange(category)
   }
 
   return (
@@ -40,7 +26,7 @@ export function Typeahead (props: { id: string | undefined, options: Category[],
         id={id ?? 'typeahead'}
         className='typeahead__input'
         type='text'
-        value={selectedCategory?.label}
+        value={textField}
         placeholder={placeholder}
         onChange={handleChange}
         onBlur={handleBlur}
@@ -53,7 +39,7 @@ export function Typeahead (props: { id: string | undefined, options: Category[],
               return (
               <li
                 key={option.key}
-                onClick={() => { handleSelectItem(option) }}
+                onClick={() => { handleCategoryChange(option) }}
               ><span>{option.label}</span>
               </li>
               )

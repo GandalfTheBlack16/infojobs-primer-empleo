@@ -58,6 +58,9 @@ button.accent:hover {
 
 input {
   background-color: #f5f5f5;
-  color: #585858;
-  padding: 5px;
+  color: #212529;
+  font-weight: 400;
+  padding: 8px;
+  border-radius: 5px;
+  border-color: transparent;
 }

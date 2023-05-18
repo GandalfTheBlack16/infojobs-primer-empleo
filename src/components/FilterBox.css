@@ -9,9 +9,10 @@
     display: flex;
     flex-direction: row;
     align-items: baseline;
-    gap: 5px;
+    gap: 10px;
 }
 
 .filter__box label {
     color: #1b1b1b;
+    font-weight: 500;
 }

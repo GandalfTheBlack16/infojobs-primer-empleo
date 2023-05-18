@@ -11,7 +11,7 @@ interface CategoryResponse {
 
 export async function getCategories () {
   try {
-    const response = await fetch('https://api.infojobs.net/api/1/dictionary/category', {
+    const response = await fetch('/proxy/api/1/dictionary/category', {
       headers: {
         'Content-Type': 'application/json',
         Authorization: `Basic ${INFOJOBS_TOKEN}`

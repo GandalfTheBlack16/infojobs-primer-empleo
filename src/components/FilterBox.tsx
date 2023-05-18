@@ -1,16 +1,10 @@
 import './FilterBox.css'
 import { Typeahead } from './ui/Typeahead'
-import categoriesResponse from '../mocks/categoryResponse.json'
 import { useFilterbox } from '../hooks/useFilterbox'
+import { useCategories } from '../hooks/useCategories'
 
 export function FilterBox () {
-  // Replace this with useCategories hook
-  const options = categoriesResponse.map(item => {
-    return {
-      key: item.key,
-      label: item.value
-    }
-  })
+  const { categories } = useCategories()
 
   const { formInvalid, handleCategoryChange, handleSubmit } = useFilterbox()
 
@@ -20,7 +14,7 @@ export function FilterBox () {
                 <label>Categoria</label>
                 <Typeahead
                   id='category_input'
-                  options={options}
+                  options={categories}
                   placeholder='Seleccione categoria'
                   onTypeaheadChange={handleCategoryChange}
                 />

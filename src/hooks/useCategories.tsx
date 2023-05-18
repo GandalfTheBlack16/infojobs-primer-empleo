@@ -15,7 +15,8 @@ export function useCategories () {
         if (!data) {
           throw new Error('There is not categories to show')
         }
-        setCategories(data)
+        const filtered = data.filter(item => item.key !== '-')
+        setCategories(filtered)
       })
       .catch(error => {
         setError(error)

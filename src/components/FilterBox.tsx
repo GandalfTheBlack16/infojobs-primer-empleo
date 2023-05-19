@@ -15,7 +15,15 @@ export function FilterBox () {
                 <Select
                   id='category_input'
                   placeholder='Seleccione categoria'
-                  className='category__select'
+                  className='category-select_container'
+                  theme={(theme) => ({
+                    ...theme,
+                    borderRadius: 4,
+                    colors: {
+                      ...theme.colors,
+                      primary: '#167db7'
+                    }
+                  })}
                   noOptionsMessage={() => 'Sin coincidencias'}
                   options={categories}
                   isLoading={loading}

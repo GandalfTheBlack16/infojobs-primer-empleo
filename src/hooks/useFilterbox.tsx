@@ -1,13 +1,14 @@
 import { useState } from 'react'
 import { type Category } from '../types'
+import { type SingleValue } from 'react-select'
 
 export function useFilterbox () {
   const [category, setCategory] = useState<string>('')
 
   const formInvalid = !category
 
-  const handleCategoryChange = (selected: Category) => {
-    setCategory(selected.key)
+  const handleCategoryChange = (newCategory: SingleValue<Category>) => {
+    setCategory(newCategory?.value ?? '')
   }
 
   const handleSubmit = () => {

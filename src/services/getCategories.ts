@@ -20,7 +20,7 @@ export async function getCategories () {
     const json: CategoryResponse[] = await response.json()
     const data: Category[] = json.map(item => {
       return {
-        key: item.key,
+        value: item.key,
         label: item.value
       }
     })

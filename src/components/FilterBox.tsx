@@ -1,22 +1,25 @@
 import './FilterBox.css'
-import { Typeahead } from './ui/Typeahead'
 import { useFilterbox } from '../hooks/useFilterbox'
 import { useCategories } from '../hooks/useCategories'
+import Select from 'react-select'
 
 export function FilterBox () {
-  const { categories } = useCategories()
+  const { categories, loading } = useCategories()
 
   const { formInvalid, handleCategoryChange, handleSubmit } = useFilterbox()
 
   return (
         <div className="filter__box">
             <div className='filter__item'>
-                <label>Categoria</label>
-                <Typeahead
+                <label htmlFor='category_input'>Categoria</label>
+                <Select
                   id='category_input'
-                  options={categories}
                   placeholder='Seleccione categoria'
-                  onTypeaheadChange={handleCategoryChange}
+                  className='category__select'
+                  noOptionsMessage={() => 'Sin coincidencias'}
+                  options={categories}
+                  isLoading={loading}
+                  onChange={handleCategoryChange}
                 />
             </div>
             <button className='accent' onClick={handleSubmit} disabled={formInvalid}>Buscar</button>

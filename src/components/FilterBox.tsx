@@ -6,7 +6,7 @@ import Select from 'react-select'
 export function FilterBox () {
   const { categories, loading } = useCategories()
 
-  const { formInvalid, handleCategoryChange, handleSubmit } = useFilterbox()
+  const { formInvalid, isTelework, handleCategoryChange, handleTeleworkingChange, handleSubmit } = useFilterbox()
 
   return (
         <div className="filter__box">
@@ -28,6 +28,21 @@ export function FilterBox () {
                   options={categories}
                   isLoading={loading}
                   onChange={handleCategoryChange}
+                />
+            </div>
+            <div className='filter__item'>
+                <label htmlFor='teleworking_check'>Teletrabajo</label>
+                <input
+                  type='checkbox'
+                  id='teleworking_check'
+                  onChange={handleTeleworkingChange}
+                  checked={isTelework}
+                />
+            </div>
+            <div className='filter__item'>
+                <label>Provincia</label>
+                <input
+                  type='text'
                 />
             </div>
             <button className='accent' onClick={handleSubmit} disabled={formInvalid}>Buscar</button>

@@ -1,7 +1,5 @@
 import { type Category } from '../types'
 
-const INFOJOBS_TOKEN = 'ZjBlODViOWUzNjE3NGNiNTg1OTcxN2I4ZDE4OWMxYjk6REVSc2MwNHVSTmpCK0NmYjFSOU1CVURLK082YXBacHJqeEF1UTZVRkxDQmlNOUtMZGw='
-
 interface CategoryResponse {
   id: number
   key: string
@@ -9,12 +7,14 @@ interface CategoryResponse {
   value: string
 }
 
+const TOKEN = import.meta.env.VITE_INFOJOBS_TOKEN || ''
+
 export async function getCategories () {
   try {
     const response = await fetch('/proxy/api/1/dictionary/category', {
       headers: {
         'Content-Type': 'application/json',
-        Authorization: `Basic ${INFOJOBS_TOKEN}`
+        Authorization: `Basic ${TOKEN}`
       }
     })
     const json: CategoryResponse[] = await response.json()

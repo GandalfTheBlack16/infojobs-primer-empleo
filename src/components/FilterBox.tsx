@@ -6,10 +6,13 @@ import Select from 'react-select'
 export function FilterBox () {
   const { categories, loading } = useCategories()
 
-  const { formInvalid, isTelework, handleCategoryChange, handleTeleworkingChange, handleSubmit } = useFilterbox()
+  const { formInvalid, isTelework, location, handleCategoryChange, handleTeleworkingChange, handleLocation, handleSubmit } = useFilterbox()
 
   return (
-        <div className="filter__box">
+        <form
+          className="filter__box"
+          onSubmit={handleSubmit}
+        >
             <div className='filter__item'>
                 <label htmlFor='category_input'>Categoria</label>
                 <Select
@@ -43,9 +46,15 @@ export function FilterBox () {
                 <label>Provincia</label>
                 <input
                   type='text'
+                  value={location}
+                  onChange={handleLocation}
                 />
             </div>
-            <button className='accent' onClick={handleSubmit} disabled={formInvalid}>Buscar</button>
-        </div>
+            <button
+              type='submit'
+              className='accent'
+              disabled={formInvalid}
+            >Buscar</button>
+        </form>
   )
 }

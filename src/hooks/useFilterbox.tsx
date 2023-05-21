@@ -27,6 +27,7 @@ export function useFilterbox () {
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault()
+    // TODO: Segregate responsability to parent component. There define another hook to handle offer fetching
     getOffers({ category, isTeleworking: isTelework, location })
       .then(result => { console.log(result) })
       .catch(err => { console.log(err) })

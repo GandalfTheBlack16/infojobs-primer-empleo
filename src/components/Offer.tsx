@@ -1,5 +1,4 @@
 import { type Offer as OfferType } from '../types'
-import './Offer.css'
 
 export function Offer (props: { offer: OfferType }) {
   const { offer } = props
@@ -14,7 +13,7 @@ export function Offer (props: { offer: OfferType }) {
             </div>
             <div className='offer__author'>
                 {
-                   offer.author.logoUrl && <a href={offer.author.uri}>
+                   offer.author.logoUrl && <a href={offer.author.uri} target='_blank' rel="noreferrer">
                         <img
                             src={offer.author.logoUrl}
                             alt={offer.author.name + 'logo'}
@@ -26,7 +25,7 @@ export function Offer (props: { offer: OfferType }) {
                     Oferta publicada por <a href={offer.author.uri}>{offer.author.name}</a>
                 </h4>
             </div>
-            <a href={offer.link}>
+            <a href={offer.link} target='_blank' rel="noreferrer">
                 <button className='primary'>Ir a la oferta</button>
             </a>
         </div>

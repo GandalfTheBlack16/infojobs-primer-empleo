@@ -1,13 +1,26 @@
+.list__container {
+   padding: 2rem;
+}
+
+.list__container ul {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    grid-gap: 2rem;
+}
+
 .offer__container {
+    padding: 2rem;
+    margin: auto;
+    height: 400px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5rem;
     border: solid 1.5px #c5c5c5;
     background-color: #2089c218;
     border-radius: 8px;
-    padding: 2rem;
-    margin: auto;
-    align-items: center;
-    gap: 1.5rem;
 }
 
 .offer__details {

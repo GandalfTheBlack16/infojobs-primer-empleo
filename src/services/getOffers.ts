@@ -1,7 +1,23 @@
-interface OfferRequest {
+import { type Offer } from '../types'
+
+export interface OfferRequest {
   category: string
   isTeleworking: boolean
   location?: string
+}
+
+interface OfferResponse {
+  id: any
+  title: any
+  link: any
+  salaryDescription: any
+  published: string
+  teleworking: { value: string }
+  author: {
+    name: string
+    uri: string
+    logoUrl: string
+  }
 }
 
 const TOKEN = import.meta.env.VITE_INFOJOBS_TOKEN || ''
@@ -11,7 +27,7 @@ export async function getOffers ({
   category,
   isTeleworking,
   location
-}: OfferRequest) {
+}: OfferRequest): Promise<Offer[] | undefined> {
   try {
     let query = `&category=${category}&teleworking=${isTeleworking ? 'teletrabajo-posible' : 'trabajo-solo-presencial'}${location ? '&province=' : ''}`
     if (location) {
@@ -26,7 +42,21 @@ export async function getOffers ({
 
     if (response.ok) {
       const result = await response.json()
-      return result
+      return result.offers.map((item: OfferResponse) => {
+        return {
+          id: item.id,
+          title: item.title,
+          link: item.link,
+          salary: item.salaryDescription,
+          publishDate: new Date(item.published),
+          teleworking: item.teleworking.value,
+          author: {
+            name: item.author.name,
+            uri: item.author.uri,
+            logoUrl: item.author.logoUrl
+          }
+        }
+      }).filter((item: OfferResponse) => item.title.length < 70 && item.author.logoUrl)
     }
   } catch (err) {
     console.error(err)

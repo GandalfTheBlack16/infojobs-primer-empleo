@@ -1,6 +1,7 @@
 import './App.css'
 import { FilterBox } from './components/FilterBox'
 import { Logo } from './components/Logo'
+import OfferList from './components/OfferList'
 
 function App () {
   return (
@@ -13,6 +14,7 @@ function App () {
       </header>
       <main>
         <FilterBox />
+        <OfferList />
       </main>
     </>
   )

@@ -1,0 +1,2840 @@
+{
+    "currentPage": 1,
+    "pageSize": 20,
+    "totalResults": 70,
+    "currentResults": 20,
+    "totalPages": 4,
+    "availableSortingMethods": [
+      "updated-desc"
+    ],
+    "sortBy": "updated-desc",
+    "sinceDate": "ANY",
+    "items": [
+      {
+        "id": "ef2850ca774e918e797c1212e91c7b",
+        "title": "Agente inmobiliario de Alquileres",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/agente-inmobiliario-alquileres/of-ief2850ca774e918e797c1212e91c7b",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-04-03T14:26:42.000Z",
+        "updated": "2023-05-22T17:30:02.000Z",
+        "author": {
+          "id": "98494856514750727985906022233328500029",
+          "privateId": 44967042978,
+          "name": "HOUZIT SPAIN S.L.",
+          "uri": "https://www.infojobs.net/houzit-spain-s.l./em-i98494856514750727985906022233328500029",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/72/72a82512-248c-4336-a465-62cb849fba22?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NzUyNjY4NTYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83Mi83MmE4MjUxMi0yNDhjLTQzMzYtYTQ2NS02MmNiODQ5ZmJhMjIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.cLyLQKSTy0zif8JVTVe2gp3Fljcbs_mWS0NSWAnA77y9hPcO8_nnjT9mL2behiW5mulW5KBdyoOWhfmSuhpnW3yLeYbHTI1BbcsdO-WbsrsjXJlB6yPtkMTb7r9taUs1fTilRmYybwDHckG-UsfJ-yEHQqwHLnZsDfRUsfLgEBCiOhCnxxWjYTokGaukCjjhllg0BYj6DCeSTRMUk7FN1ZKoyb0454CD3Uqr9QbAG8OzLPEg1RVtHI7dkrfjaEFcdCDLUlA0r2GEG4BfoGJ7NQJraBpVxeV4FqKF5QxS4A27Sq2-KTack3AUhQJY6Zbx8WcgdxWE8Ki9lL1z4CGygg&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "6cf7c2767d42e4aaac5f14c0563397",
+        "title": "Becario/a Departamento de Soluciones e Innovación",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/becario-departamento-soluciones-innovacion/of-i6cf7c2767d42e4aaac5f14c0563397",
+        "category": {
+          "id": 30,
+          "value": "Calidad, producción e I+D"
+        },
+        "contractType": {
+          "id": 5,
+          "value": "Otros contratos"
+        },
+        "subcategory": {
+          "id": 3020,
+          "value": "Gestión de proyectos"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 125,
+          "value": "Grado"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T14:26:18.000Z",
+        "updated": "2023-05-22T14:26:18.000Z",
+        "author": {
+          "id": "b194059e-538c-42b4-bbb1-bbdd6ac6520f",
+          "privateId": 40112546366,
+          "name": "Sector Sociosanitario",
+          "uri": "https://www.infojobs.net/sector-sociosanitario/em-ib194059e-538c-42b4-bbb1-bbdd6ac6520f",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Graduado/a Universitario/a en: Business Analytics, Ciencia datos, Ciencia de datos e ingeniería de servicios o datos, Ciencia de datos e inteligencia Artificial, ingeniería de servicios, y/o Administración de Empresas, o similar.\r\n* Haber obtenido la titulación como máximo en los últimos 3 años para poder realizar beca.\r\n* Dominio de las herramientas Office 365.\r\n* Valorable experiencia con herramientas Business Intelligence y visualización Power BI.\r\n* Valorable experiencia en prácticas curriculares o extracurriculares",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "ad2dd4cd104ffca8ca16e4629b5ade",
+        "title": "Agente Inmobiliario",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/agente-inmobiliario/of-iad2dd4cd104ffca8ca16e4629b5ade",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 265,
+          "value": "21.000 €"
+        },
+        "salaryMax": {
+          "id": 560,
+          "value": "80.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T11:53:36.000Z",
+        "updated": "2023-05-22T11:53:36.000Z",
+        "author": {
+          "id": "98565555565750826977654017124087204536",
+          "privateId": 31064483196,
+          "name": "REMAX Óptima",
+          "uri": "https://www.infojobs.net/remax-optima/em-i98565555565750826977654017124087204536",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/26/260c0f9b-d914-4fea-b650-c2d7d3136591?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDY2MDA2ODUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yNi8yNjBjMGY5Yi1kOTE0LTRmZWEtYjY1MC1jMmQ3ZDMxMzY1OTEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.W4WcX7mxPK87ou2cM34U2qcpC-9s9kDY-q5S6bgdyqZQYZqvKygesDMlH0EphRZqF1eYfrwvrSfocVyJNEczsFRWOMs4uF_lD9OhbG4JAvrFltQJM3vVPWYAC_6sxgD_tralZgtubHXtXhAOVKIkEpyxT0pIXsvZU7w12EGsb6HCaCf--jzD02Bxcw4glUAJlKw5dy67wCgrq1epXWjQBJpuerynF_0_RKjnNXk591WEc0qA8fFZ3Fn3iA_VJZRm4cO2KUwCUbkktbOcP6MV5nmrLuqa_q9L4l2HnLZ55F7-jH3WaxElflQGC14vH0pyAe56TVdFaydF6a9OedBM4w&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Indispensable:\r\n* Persona con perfil comercial.\r\n* Ser autónomo o tener posibilidad de serlo.\r\n* Paquete Office e internet nivel usuario.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 80.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "639c93f5764f51a3b672764ea8da30",
+        "title": "Beca comercial | Marketing",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/beca-comercial-marketing/of-i639c93f5764f51a3b672764ea8da30",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 4,
+          "value": "A tiempo parcial"
+        },
+        "subcategory": {
+          "id": 3122,
+          "value": "Televenta y marketing telefónico"
+        },
+        "salaryMin": {
+          "id": 130,
+          "value": "600 €"
+        },
+        "salaryMax": {
+          "id": 1060,
+          "value": "750 €"
+        },
+        "salaryPeriod": {
+          "id": 2,
+          "value": "Bruto/mes"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 60,
+          "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-04-17T08:09:13.000Z",
+        "updated": "2023-05-22T10:30:03.000Z",
+        "author": {
+          "id": "98565651565549846568659019046414004977",
+          "privateId": 36508539474,
+          "name": "TADATIC SL.",
+          "uri": "https://www.infojobs.net/tadatic-sl./em-i98565651565549846568659019046414004977",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/80/80a8725d-ef98-4d80-afd9-e0a2b0413dbb?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTE0MjE2MzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84MC84MGE4NzI1ZC1lZjk4LTRkODAtYWZkOS1lMGEyYjA0MTNkYmIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bA2DBdaPE8spBzQv25d2TKh2ns6o-8A6qm-XVMONc2u9X2ukLup1RrjS2MT1epIc4pm0wRSZeVolO-XivfschQa0pI6B1O6_mjG13cLiJ0B0uqu9AEa3FxtJ4lQT3hqAjUXRhK7dV9ju1qOawFeiGMaG0CguZnuhFKrgos34fh_Fx639vFnMc129rscPhRiCGqVzuiLYKLf7hHvFP-mN9whd01bgEjfboHIl2zA638d2rRpaZd2JExLDDtKk2JVN1sy13wrfh6wFqpEr2II_eEOVAi1beiWAmuvLVA8Yy0GY9t0o8ZF_Ac0CN7HtfTQvBNxtFxdDNy0_W80ytt5SDw&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "600€ - 750€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "6974af08784064a044397dc79ab818",
+        "title": "Teleoperador/Teleoperadora Seguros Auto 9-15/10-16 (martes-sábado) Proyecto muy estable CONTRATO INDEFINIDO OPCIÓN TELETRABAJO MIXTO Madrid",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid Suanzes+ Opción Teletrabajo",
+        "link": "https://www.infojobs.net/madrid-suanzes-opcion-teletrabajo/teleoperador-teleoperadora-seguros-auto-9-15-10-16-martes-sabado-proyecto-muy-estable-contrato-indefinido-opcion-teletrabajo-mixto-madrid/of-i6974af08784064a044397dc79ab818",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 1,
+          "value": "Indefinido"
+        },
+        "subcategory": {
+          "id": 3122,
+          "value": "Televenta y marketing telefónico"
+        },
+        "salaryMin": {
+          "id": 140,
+          "value": "900 €"
+        },
+        "salaryMax": {
+          "id": 1090,
+          "value": "1.300 €"
+        },
+        "salaryPeriod": {
+          "id": 2,
+          "value": "Bruto/mes"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 6,
+          "value": "Intensiva - Mañana"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:27:56.000Z",
+        "updated": "2023-05-22T09:27:56.000Z",
+        "author": {
+          "id": "49e2c353254e9d8062324c5794db70",
+          "privateId": 34096345974,
+          "name": "SALESLAND",
+          "uri": "https://salesland.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/1a/1a03be7c-0dac-4ccc-b43c-a02cf3074b7d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjAyOTgyMzMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xYS8xYTAzYmU3Yy0wZGFjLTRjY2MtYjQzYy1hMDJjZjMwNzRiN2QiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.HjzM8fDjWFHqaBKXGZNS0OPb0QZ4aL4sOiH1xPMNSLc1JlQsuHLr8B0UE337SyMlvfjJPWQPriXTDzmibLg2W-I9Wa9EpD1RYpqkU3RFfRBZ7aE_jNZpxgAI7rLZdzWosZaLC6-f8Bko7Jmmr4WMmmvESYoX2cGbxLt8JtANQmkdeCUetRsWHJEtkjpRNZwBlWvWppKKdDiS2cN464aMqLSun-d2KVkARH7gGEiNnUKfOOAsI-_W0ZxE8jVagsWir1rZuA1EDTRmSlmgjwGDMdgd8Sc2nHbpHrku9UPvPfInZ6r0tVQWt3QXjRq4hML-fETk69hVIemLYJcC1MaLvw&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "-\tEstudios mínimos Educación Secundaria Obligatoria \n-\tImprescindible experiencia previa en venta, valorable en el sector seguros.\n-\tAgilidad en el uso de aplicaciones informáticas\n-\tEntusiasmo, compromiso y orientación a resultados.\n- Valorable certificado de discapacidad en vigor igual o superior al 33%",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 11,
+        "executive": false,
+        "salaryDescription": "900€ - 1.300€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "e0504b115b40a58b5c31c8eeabe12a",
+        "title": "Ejecutivo Comercial de Seguros. Alcorcón",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Alcorcón",
+        "link": "https://www.infojobs.net/alcorcon/ejecutivo-comercial-seguros.-alcorcon/of-ie0504b115b40a58b5c31c8eeabe12a",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:22:10.000Z",
+        "updated": "2023-05-22T09:22:10.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "-Persona motivada a desarrollarse en una Carrera como agente de seguros profesional.\r\n\r\n- Con actitud comercial y orientado a las necesidades de protección de las personas.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "c392dd0afa4e66815d835c007e6325",
+        "title": "Comercial de Seguros - Agente Exclusivo - Plan de Carrera",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/comercial-seguros-agente-exclusivo-plan-carrera/of-ic392dd0afa4e66815d835c007e6325",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 250,
+          "value": "12.000 €"
+        },
+        "salaryMax": {
+          "id": 270,
+          "value": "24.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:20:08.000Z",
+        "updated": "2023-05-22T09:20:08.000Z",
+        "author": {
+          "id": "968653524526202750763215250274",
+          "privateId": 49723701,
+          "name": "Helvetia Seguros, S.A.",
+          "uri": "https://helvetia.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/55/559fa7ce-2622-449e-9e58-32bcc2bc4880?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1Njg1NTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81NS81NTlmYTdjZS0yNjIyLTQ0OWUtOWU1OC0zMmJjYzJiYzQ4ODAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jgvvkIL_rPkiCZs3wgPHueYMyhZk1IRJ1tfpdRUw85C71cH_kWj6QY4__NL-yM1GnZX5ZUyc1KHnmi54lc2mRTIfPhqk29_qwD0cCiSiqu1bEGajbiDG8lNCb2BwCJyZa4TBpuM_mBSNPtDxgLgkJ7IRxJfhS0Obv3ISyouF1cN9XbElGgaIIgDuaFAJ5VgQnrjC5mKZJDRREINFcEdiaIUQkSNGF9chRZKpTwzGT4yZU0BdF9deW6MXkgtm7c0I5IsMZAyf-ftFYcMJ7EaNKAjrBh1jZzRDTb03LiV5weu155shS_sFfDEoPZqGW1V5loDcyPfDpIYh-3_8WUeG2A&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Titulación de estudios finalizados en España u homologado en caso de país extranjero.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "12.000€ - 24.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "eb4b0b19024c9b90636ffd04578ce0",
+        "title": "Ejecutivo Comercial de Seguros. Madrid Sur.",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/ejecutivo-comercial-seguros.-madrid-sur./of-ieb4b0b19024c9b90636ffd04578ce0",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:20:05.000Z",
+        "updated": "2023-05-22T09:20:05.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Esfuerzo, ambición y afán de superación",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "83f235be3946b780a476b428107ba0",
+        "title": "Ejecutivo Comercial de Seguros. Madrid Norte.",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/ejecutivo-comercial-seguros.-madrid-norte./of-i83f235be3946b780a476b428107ba0",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:17:01.000Z",
+        "updated": "2023-05-22T09:17:01.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Esfuerzo, ambición y afán de superación",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "f388c0bbc74f429057175b6871a885",
+        "title": "Ejecutivo Comercial de Seguros. La Vaguada",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/ejecutivo-comercial-seguros.-vaguada/of-if388c0bbc74f429057175b6871a885",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:14:54.000Z",
+        "updated": "2023-05-22T09:14:54.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Esfuerzo, ambición y afán de superación",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "9a17fd193e4317983ed3b4e78718d4",
+        "title": "Asesor/a Inmobiliario/a Independiente",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-independiente/of-i9a17fd193e4317983ed3b4e78718d4",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 280,
+          "value": "30.000 €"
+        },
+        "salaryMax": {
+          "id": 330,
+          "value": "60.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T08:03:14.000Z",
+        "updated": "2023-05-22T08:03:14.000Z",
+        "author": {
+          "id": "36150524527003741243224850786",
+          "privateId": 152736936,
+          "name": "RE/MAX Welcome",
+          "uri": "https://www.infojobs.net/re-max-welcome/em-i36150524527003741243224850786",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/da/dae20b7d-c6b4-4a2a-b4ae-9c09e99890cc?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1ODI2MjEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kYS9kYWUyMGI3ZC1jNmI0LTRhMmEtYjRhZS05YzA5ZTk5ODkwY2MiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ijyJLzgXs2MvpTIgG51yZGXMWyKXe-6JU8DA19jWtIh290yBix7-LkVFd7y5VaP1UdlYfYl104XOXnCV1MofA_pE_lyE_srPSm_Bpow3dyLVUD88qev8p-t0yezUZrNoAP0ZtPi7Y2mlsWHS8iThYv67jqRvXJkFQ_-MbfIMVJvCUCGBFyP75UljrLiUvB1jXSXbaHqj-QcLYVmV615z6sm4Ulyl3a9sbK0-q7sV6SCxtTJNCc1bdr8AGtmV_8G3GK8jtusNfOORXZ2xd8S5oZyWgQkJhInrVQiNGyZvYZHBX-9D3_9KhxjGHhZf4IjyPg1TrP_z26HNEOKsYmrdzA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "30.000€ - 60.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "db868939de4b34b3df0aae2f501b2b",
+        "title": "COMERCIAL INMOBILIARIO/A. (MADRID)",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/comercial-inmobiliario-a.-madrid/of-idb868939de4b34b3df0aae2f501b2b",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 265,
+          "value": "21.000 €"
+        },
+        "salaryMax": {
+          "id": 650,
+          "value": "100.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T07:43:04.000Z",
+        "updated": "2023-05-22T07:43:04.000Z",
+        "author": {
+          "id": "663149524537301500746155355590",
+          "privateId": 1106854140,
+          "name": "REMAX ROSALES",
+          "uri": "https://www.infojobs.net/remax-rosales/em-i663149524537301500746155355590",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a2/a2654511-3c4b-4b9d-bdf2-0f1a019dba3d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjgyMDg2ODAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hMi9hMjY1NDUxMS0zYzRiLTRiOWQtYmRmMi0wZjFhMDE5ZGJhM2QiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.dqrOntqrRor91Qf4RCkoGCRNXiMDPUDh2cKMrGQMlAhdvFLHuEFB_kctgxEDE95W-SPXNwDp0jYW1nGK6OXfgVruljICXOzGw-w8UBAmo8pk_MfJ76P9g_Poo7j7NZuDIh6WC5va9FyQghITsjGUogCJoUVIomhEMwEEtYgFoUkqDEaJ96G2rQzlTu5fCL4TM1KdOUQFkp9wObxSHrs-e3jvRvlUDj8rQUi3yt-6YIgJ-1qzNaV4RvtXC1_fU3TzomnuXz9E70qpMa4T855iVt_5Utaotd1Jyt47Gx-TXGQEpGtW9XsZkJVJmlJl000y5OQ_G2mmcNCQkU4biVnPOQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Mentalidad empresarial\r\nEstar en régimen de AUTÓNOMO\r\nDotes comerciales\r\nTrato con personas\r\nActitud positiva",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 100.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "245635eaa2447fa199388fbd64301f",
+        "title": "Asesor/a Comercial Seguros e Inversiones (ÚLTIMO Proceso MAYO 2023)",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-comercial-seguros-inversiones-ultimo-proceso-mayo-2023/of-i245635eaa2447fa199388fbd64301f",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 5,
+          "value": "Otros contratos"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 1100,
+          "value": "1.400 €"
+        },
+        "salaryMax": {
+          "id": 1190,
+          "value": "2.800 €"
+        },
+        "salaryPeriod": {
+          "id": 2,
+          "value": "Bruto/mes"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T07:07:09.000Z",
+        "updated": "2023-05-22T07:07:09.000Z",
+        "author": {
+          "id": "26f51278fa40b6bbd5f891b250ece7",
+          "privateId": 40200011516,
+          "name": "Seguros Catalana Occidente - Madrid",
+          "uri": "https://catalanaoccidenteoficina.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/07/07128bfc-bdb5-499e-a97e-4e6f656dbf93?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTEwNjQzNDYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNy8wNzEyOGJmYy1iZGI1LTQ5OWUtYTk3ZS00ZTZmNjU2ZGJmOTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.RvTva9YLJuQBzfNVC4uHjGqUA2rGy5B4J0wdG3eis4lc0kFl_YYaM0sYzlYqDI74wCd5E9ILhW2BhlaSHXDuneftnb3MZ3Oh5yyn7ZARmXlI5fqIt0vaqbTafSGlZecNqqUy5hTVdzcrqDyWYDIdFtKmllPfBZVo7P-oN1U0u81Wuu51DG2BffRCgLMxzJhhb7DsoW3cxSunJNnfIXMmfKydQ1xExnGxRqkTnAvy-pORRUMM-pcwe9iQhDvvaQNAbqJS-XY0OS0ZjeNqEafYeYVGI5XlKhlwxR3Ng7LCjr42Y7YqztHPc5VGW0eJsgJMvWJUFzAggEWszLA1A4pTMQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Persona con perfil claramente comercial con alto nivel de comunicación, fluida y precisa. Ambiciosa, con ganas de crecer profesionalmente y orientada a resultados.\r\n\r\nExperiencia en ventas, en gestión de carteras de clientes, fidelización y seguimiento de ofertas. Campañas comerciales y atención al cliente.\r\n\r\nOrganizada, con capacidad de análisis, creativa, emprendedora y proactiva.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "1.400€ - 2.800€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "cf29c4d553491297ada96bd200f599",
+        "title": "¿Quieres hacer tus prácticas en RRHH?",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Alcobendas",
+        "link": "https://www.infojobs.net/alcobendas/quieres-hacer-tus-practicas-rrhh/of-icf29c4d553491297ada96bd200f599",
+        "category": {
+          "id": 30,
+          "value": "Calidad, producción e I+D"
+        },
+        "contractType": {
+          "id": 3,
+          "value": "Formativo"
+        },
+        "subcategory": {
+          "id": 3017,
+          "value": "Certificación de calidad"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 2,
+          "value": "Parcial - Mañana"
+        },
+        "study": {
+          "id": 125,
+          "value": "Grado"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T07:01:36.000Z",
+        "updated": "2023-05-22T07:01:36.000Z",
+        "author": {
+          "id": "967656524526202650523215655578",
+          "privateId": 48672640,
+          "name": "Bureau Veritas",
+          "uri": "https://bureauveritas.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/72/72427c9f-dd5a-4a3e-becc-75135eabca27?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1Nzk1NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83Mi83MjQyN2M5Zi1kZDVhLTRhM2UtYmVjYy03NTEzNWVhYmNhMjciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.BFpEDhZmdRzrEVhZHqnA4vEe_Q0knkvgtzIq6QCS3MGeCgAohZW7xfV2iA-ur5HwZDLkWsJWF-4H2aj87DPfzIzgTL9xIScbV6HlGxfYA4H42oS4d1qqnV0C7i70OhO-DYmUt8Cmc98XyJXIApiMYU953jsHqkiI22eWV-3rR5nMqgvv6ZhGanf9E9A6bUAIdzdKbbklEEMX1eG71ROgWodGYQojX6HERRr01EnF--YXpBvdoANk7BMay_09TM8trvhg4tP3BstOI_5qK7P-PunRAv4zG745lKJxXOrxLiwuC_l0IZxkzvETVAFrrlT2J6TQADZ5ylA845FABuzQOg&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "d0a5d4ba674b469f657577c9394b1a",
+        "title": "Agente inmobiliario autónomo REMAX.",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/agente-inmobiliario-autonomo-remax./of-id0a5d4ba674b469f657577c9394b1a",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 270,
+          "value": "24.000 €"
+        },
+        "salaryMax": {
+          "id": 650,
+          "value": "100.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-21T10:01:38.000Z",
+        "updated": "2023-05-21T10:01:38.000Z",
+        "author": {
+          "id": "98565555505953687383842017275390801984",
+          "privateId": 30773253350,
+          "name": "RE/MAX CAPITAL",
+          "uri": "https://www.infojobs.net/re-max-capital/em-i98565555505953687383842017275390801984",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/44/44813f7d-f964-440a-962b-878f101b736a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MjczODE0MTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NC80NDgxM2Y3ZC1mOTY0LTQ0MGEtOTYyYi04NzhmMTAxYjczNmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.WIHxAXmnnsQb4jw6YmCwInsuqcLygydGgTKMNILvoqVO0r_JmRSi1_pS_W9QL37IWqDTQhHnQWznWplefYg-tlJpBhEDOAsdDvo3slvF7ZoK_ZwZi0BV-zdIxkqZ8KVb3AhlTjdBkK7NsbY9u2MNKqK2DcqBr8HYjXra6_uxwjrofPNZNl83du5CmTg1gmqv5vdT_3IT8Vm1gsVSl-2qMmRKlMCakKVFG7qfp3-Nh5bUte0LPo34MT9IGNrVkiIiyNc90hso8MSX9krBINkQ_7Cs8ke94eGL6nyZIbydMJrV-eIZYmCe9OmsfNHiEh740gZQfqmQkYZeK4cOC_WXaQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "810f207a4c437ba40abedbf3ce6f4e",
+        "title": "ASESOR/A INMOBILIARIO  CENTURY 21 MADRID Y ZONA NOROESTE",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-century-21-madrid-zona-noroeste/of-i810f207a4c437ba40abedbf3ce6f4e",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 265,
+          "value": "21.000 €"
+        },
+        "salaryMax": {
+          "id": 650,
+          "value": "100.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-20T06:34:02.000Z",
+        "updated": "2023-05-20T06:34:02.000Z",
+        "author": {
+          "id": "98565557485454676978849017274890705357",
+          "privateId": 31979538758,
+          "name": "CENTURY 21 About Your House",
+          "uri": "https://century21.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7e/7eda7fef-39e4-4f12-abb9-8546de1524a2?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE1MjU2MjcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83ZS83ZWRhN2ZlZi0zOWU0LTRmMTItYWJiOS04NTQ2ZGUxNTI0YTIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.DE9nab7YLFN1Xda6h0q_2heipyfX1iXy4_YPDggT0-VGYtHJ9ENSxObzrspvyd6oH38uKyCaesWMvvRen6ZKPI1Rv61TlsVzTOhAY5YgftTrmhv7e1G9jt8WXPS-CzUPdpHbxFFj3C7_PtiAT-5T0_OQx7XaDq0e63Ytj4iVmVeyH-9MsXxf4F7ZWNHC6rTJtbmGA_XZyX_AJmZ6ltTLGMAi6mC1aLWCmVh8BscO0gOBsEbbT1yJ5eT10ewARQE0DoWZ-LYtEF9dOmVPfTfzX3bnT3-kxMEmgHtFQAkUa7ryAJkEgYJLrDWLlcmIipqBKFCBe01YpAoMnJkOasbNMA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": true,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "¿CÚAL ES EL PERFIL DE ÉXITO DE UN ASESOR INMOBILIARIO EN ESTE SECTOR Y QUÉ NECESITAS?\r\n- Profesional proactivo/a con clara orientación a resultados.\r\n- Colaboración formato Régimen General Autónomos.\r\n- Excelente capacidad de comunicación y habilidades relacionales.\r\n- Conocimiento de herramientas informáticas nivel usuario.\r\n- Valorable experiencia en sector comercial / inmobiliario.\r\n- Valorable vehículo propio y residencia en zona Noroeste.\r\n- Proactivo\r\n- Orientado a objetivos\r\n- Responsabilidad, honestidad y compromiso.\r\n- Persona organizada y planificada",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 100.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "e081cb6b0f461cb0e42b12dd51237e",
+        "title": "Delegado/a de Zona",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/delegado-zona/of-ie081cb6b0f461cb0e42b12dd51237e",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 5,
+          "value": "Otros contratos"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 1300,
+          "value": "20.000 €"
+        },
+        "salaryMax": {
+          "id": 280,
+          "value": "30.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-04-21T13:08:40.000Z",
+        "updated": "2023-05-19T18:30:02.000Z",
+        "author": {
+          "id": "98555057485652676580734023184266906625",
+          "privateId": 47794940526,
+          "name": "CAPITAL INVEST ATOM, SOCIEDAD LIMITADA.",
+          "uri": "https://www.infojobs.net/capital-invest-atom-sociedad-limitada./em-i98555057485652676580734023184266906625",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "20.000€ - 30.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "f8199d57914aca9929ca946f38fd59",
+        "title": "COMERCIAL INMOBILIARIO",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Pozuelo de Alarcón",
+        "link": "https://www.infojobs.net/pozuelo-de-alarcon/comercial-inmobiliario/of-if8199d57914aca9929ca946f38fd59",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 280,
+          "value": "30.000 €"
+        },
+        "salaryMax": {
+          "id": 330,
+          "value": "60.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 110,
+          "value": "Diplomatura"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-19T17:56:06.000Z",
+        "updated": "2023-05-19T17:56:06.000Z",
+        "author": {
+          "id": "98565550555549801111226015103456807941",
+          "privateId": 24648220522,
+          "name": "RE/MAX Properties",
+          "uri": "https://www.infojobs.net/re-max-properties/em-i98565550555549801111226015103456807941",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/94/9482e2e3-3e3c-4f46-a71b-49caac22adf0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTcwMTQyNjcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy85NC85NDgyZTJlMy0zZTNjLTRmNDYtYTcxYi00OWNhYWMyMmFkZjAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ZjUgzVKGodAUjMTnFovYK44N6pXVO3U0DSsbuuw6SfuabfC3pmUepYcgB9Wn0iqdKMiMuWqhHSAog9P7C52e-UwVHQoJKVS4MqKOEgREqhBLe3jNomYJlOLmjag9YW6XC_EejfjGmOol_RztAmUO5DQWV4oPkdZrNShcEwNluepR1tCNzeJTP2ftN4zScwPHJzSBkXheX-5-olTHhyN1bYIPctGv9RY0m7WR9cQcgTZ2OfRpi5RJLoS2xjk3OaBdHCs1n5jUiJyToH8qcOldoa0qnUSK-07I19jnpo7LbdFX4lm-LrlnPGsFSsEF1Y7Mf5gZ5aHHJ4358n5k-GB4aw&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "IMPORTANTE: \r\nFORMACIÓN SUPERIOR\r\nEXPERIENCIA EN OTROS SECTORES DE AL MENOS 10 AÑOS \r\nPASIÓN POR EL SECTOR INMOBILIARIO",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "30.000€ - 60.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "45bec47390407d9a45fd6e37a13156",
+        "title": "ASESOR/A INMOBILIARIO/A  RE/MAX ZIELO",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-re-max-zielo/of-i45bec47390407d9a45fd6e37a13156",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 35,
+          "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-16T13:49:25.000Z",
+        "updated": "2023-05-19T16:13:39.000Z",
+        "author": {
+          "id": "98545354555253737886692020303642217079",
+          "privateId": 40061147468,
+          "name": "RE/MAX Zielo",
+          "uri": "https://www.infojobs.net/re-max-zielo/em-i98545354555253737886692020303642217079",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/bc/bc916e2b-888a-45b2-86ca-0441a360af93?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTI4OTgzMTEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iYy9iYzkxNmUyYi04ODhhLTQ1YjItODZjYS0wNDQxYTM2MGFmOTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.c8hNplMF8bLzQl0WOGISMZ3ryyn5JuacYMe3cZ5cU3YXWTAr1dXBtqgVXOs_RGaOTgNLl37wppbEa1vACaZk54Y-afoq1aPACJizjyV9ybN_sjDkR8tt8hQIqHUW3Gs116ervIAdjOEI0kJ7GJqd7uPSKgbX_0mvhpejBy_Jn2YYC9BTd5fY05RmwFsUl8olE-388-N7m9Xj9DMcGmOVQ3XRpKBLNlUzr4zJLFW9H5wHYJHpwajPH3s8VjKq7ymAkG66WzJyGAnHnXpfimJ5vCmnYDn2plaj1zmzjSldqlayMSurowRBkdQ90dn58d23CbLUGvspfEvcz0zMMdZPnA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Perfil emprendedor y comercial.\r\n· Imprescindible estar dado de alta o posibilidad de alta en RETA (régimen de autónomos).",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Más de 30.000€",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "b0544f4ddc4be29d31fd8df54fc1a9",
+        "title": "ASESOR INMOBILIARIO RE/MAX FIDELITY",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-re-max-fidelity/of-ib0544f4ddc4be29d31fd8df54fc1a9",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 990,
+          "value": "45.000 €"
+        },
+        "salaryMax": {
+          "id": 500,
+          "value": "66.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-19T15:37:02.000Z",
+        "updated": "2023-05-19T15:37:02.000Z",
+        "author": {
+          "id": "98565554564754821011091017124806700609",
+          "privateId": 30454553442,
+          "name": "Remax Fidelity",
+          "uri": "https://www.infojobs.net/remax-fidelity/em-i98565554564754821011091017124806700609",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b0/b0aa5187-ffb1-46a3-8b15-76499b813b08?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjQ1NTE2MjYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iMC9iMGFhNTE4Ny1mZmIxLTQ2YTMtOGIxNS03NjQ5OWI4MTNiMDgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bnuJmtVdXmMxeB4LVkfzrvoI_e6lXIMnThADqa72qjqJXukqLqyGr6usRDtBcItAf1a4J1yirNCO1GufeDgg3ihUj0K4wxh-8r273XAgWVBTOf4Wmcj2zJjqWVDW7SsTGPIyuRfmzY_zc1Wj6guT2WohllN-gwmmaQY7M9KN1KThVQJCTj-kPhbF-Sf1cRGCVjysp3v6ZZYvu6_CxTy1ae9gm9z0pHnLyN8PPqkYVOmmdROv0vldMmKvO5BniuF3hJ9tt57ClxJFsOMzp1x8PPEE0c9zYpafUraj1U4UgQDeloowZbUgCUKRDA2PTAENtgUTmmroKiJaAskRVIkdrQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "-Buena presencia, comunicación y entusiasmo.\r\n- Experiencia en gestión y atención al cliente.\r\n- Informática básica nivel usuario",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "45.000€ - 66.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      }
+    ],
+    "dataLayer": {
+      "offer_search_page": "1",
+      "offer_search_page_limit": "20",
+      "search_category": "30,190",
+      "region_level2_id": "33"
+    },
+    "queryParameters": {
+      "study": [],
+      "province": [
+        "madrid"
+      ],
+      "salaryPeriod": "seleccionar",
+      "city": [],
+      "contractType": [],
+      "query": "",
+      "experienceMin": [
+        "no-requerida"
+      ],
+      "category": [
+        "calidad-produccion-id",
+        "comercial-ventas"
+      ],
+      "workDay": [],
+      "teleworking": [
+        "teletrabajo-posible"
+      ]
+    },
+    "eligibleForAutomaticAlertCreation": false,
+    "offers": [
+      {
+        "id": "ef2850ca774e918e797c1212e91c7b",
+        "title": "Agente inmobiliario de Alquileres",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/agente-inmobiliario-alquileres/of-ief2850ca774e918e797c1212e91c7b",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-04-03T14:26:42.000Z",
+        "updated": "2023-05-22T17:30:02.000Z",
+        "author": {
+          "id": "98494856514750727985906022233328500029",
+          "privateId": 44967042978,
+          "name": "HOUZIT SPAIN S.L.",
+          "uri": "https://www.infojobs.net/houzit-spain-s.l./em-i98494856514750727985906022233328500029",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/72/72a82512-248c-4336-a465-62cb849fba22?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NzUyNjY4NTYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83Mi83MmE4MjUxMi0yNDhjLTQzMzYtYTQ2NS02MmNiODQ5ZmJhMjIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.cLyLQKSTy0zif8JVTVe2gp3Fljcbs_mWS0NSWAnA77y9hPcO8_nnjT9mL2behiW5mulW5KBdyoOWhfmSuhpnW3yLeYbHTI1BbcsdO-WbsrsjXJlB6yPtkMTb7r9taUs1fTilRmYybwDHckG-UsfJ-yEHQqwHLnZsDfRUsfLgEBCiOhCnxxWjYTokGaukCjjhllg0BYj6DCeSTRMUk7FN1ZKoyb0454CD3Uqr9QbAG8OzLPEg1RVtHI7dkrfjaEFcdCDLUlA0r2GEG4BfoGJ7NQJraBpVxeV4FqKF5QxS4A27Sq2-KTack3AUhQJY6Zbx8WcgdxWE8Ki9lL1z4CGygg&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "6cf7c2767d42e4aaac5f14c0563397",
+        "title": "Becario/a Departamento de Soluciones e Innovación",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/becario-departamento-soluciones-innovacion/of-i6cf7c2767d42e4aaac5f14c0563397",
+        "category": {
+          "id": 30,
+          "value": "Calidad, producción e I+D"
+        },
+        "contractType": {
+          "id": 5,
+          "value": "Otros contratos"
+        },
+        "subcategory": {
+          "id": 3020,
+          "value": "Gestión de proyectos"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 125,
+          "value": "Grado"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T14:26:18.000Z",
+        "updated": "2023-05-22T14:26:18.000Z",
+        "author": {
+          "id": "b194059e-538c-42b4-bbb1-bbdd6ac6520f",
+          "privateId": 40112546366,
+          "name": "Sector Sociosanitario",
+          "uri": "https://www.infojobs.net/sector-sociosanitario/em-ib194059e-538c-42b4-bbb1-bbdd6ac6520f",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Graduado/a Universitario/a en: Business Analytics, Ciencia datos, Ciencia de datos e ingeniería de servicios o datos, Ciencia de datos e inteligencia Artificial, ingeniería de servicios, y/o Administración de Empresas, o similar.\r\n* Haber obtenido la titulación como máximo en los últimos 3 años para poder realizar beca.\r\n* Dominio de las herramientas Office 365.\r\n* Valorable experiencia con herramientas Business Intelligence y visualización Power BI.\r\n* Valorable experiencia en prácticas curriculares o extracurriculares",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "ad2dd4cd104ffca8ca16e4629b5ade",
+        "title": "Agente Inmobiliario",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/agente-inmobiliario/of-iad2dd4cd104ffca8ca16e4629b5ade",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 265,
+          "value": "21.000 €"
+        },
+        "salaryMax": {
+          "id": 560,
+          "value": "80.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T11:53:36.000Z",
+        "updated": "2023-05-22T11:53:36.000Z",
+        "author": {
+          "id": "98565555565750826977654017124087204536",
+          "privateId": 31064483196,
+          "name": "REMAX Óptima",
+          "uri": "https://www.infojobs.net/remax-optima/em-i98565555565750826977654017124087204536",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/26/260c0f9b-d914-4fea-b650-c2d7d3136591?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDY2MDA2ODUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yNi8yNjBjMGY5Yi1kOTE0LTRmZWEtYjY1MC1jMmQ3ZDMxMzY1OTEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.W4WcX7mxPK87ou2cM34U2qcpC-9s9kDY-q5S6bgdyqZQYZqvKygesDMlH0EphRZqF1eYfrwvrSfocVyJNEczsFRWOMs4uF_lD9OhbG4JAvrFltQJM3vVPWYAC_6sxgD_tralZgtubHXtXhAOVKIkEpyxT0pIXsvZU7w12EGsb6HCaCf--jzD02Bxcw4glUAJlKw5dy67wCgrq1epXWjQBJpuerynF_0_RKjnNXk591WEc0qA8fFZ3Fn3iA_VJZRm4cO2KUwCUbkktbOcP6MV5nmrLuqa_q9L4l2HnLZ55F7-jH3WaxElflQGC14vH0pyAe56TVdFaydF6a9OedBM4w&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Indispensable:\r\n* Persona con perfil comercial.\r\n* Ser autónomo o tener posibilidad de serlo.\r\n* Paquete Office e internet nivel usuario.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 80.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "639c93f5764f51a3b672764ea8da30",
+        "title": "Beca comercial | Marketing",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/beca-comercial-marketing/of-i639c93f5764f51a3b672764ea8da30",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 4,
+          "value": "A tiempo parcial"
+        },
+        "subcategory": {
+          "id": 3122,
+          "value": "Televenta y marketing telefónico"
+        },
+        "salaryMin": {
+          "id": 130,
+          "value": "600 €"
+        },
+        "salaryMax": {
+          "id": 1060,
+          "value": "750 €"
+        },
+        "salaryPeriod": {
+          "id": 2,
+          "value": "Bruto/mes"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 60,
+          "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-04-17T08:09:13.000Z",
+        "updated": "2023-05-22T10:30:03.000Z",
+        "author": {
+          "id": "98565651565549846568659019046414004977",
+          "privateId": 36508539474,
+          "name": "TADATIC SL.",
+          "uri": "https://www.infojobs.net/tadatic-sl./em-i98565651565549846568659019046414004977",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/80/80a8725d-ef98-4d80-afd9-e0a2b0413dbb?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTE0MjE2MzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84MC84MGE4NzI1ZC1lZjk4LTRkODAtYWZkOS1lMGEyYjA0MTNkYmIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bA2DBdaPE8spBzQv25d2TKh2ns6o-8A6qm-XVMONc2u9X2ukLup1RrjS2MT1epIc4pm0wRSZeVolO-XivfschQa0pI6B1O6_mjG13cLiJ0B0uqu9AEa3FxtJ4lQT3hqAjUXRhK7dV9ju1qOawFeiGMaG0CguZnuhFKrgos34fh_Fx639vFnMc129rscPhRiCGqVzuiLYKLf7hHvFP-mN9whd01bgEjfboHIl2zA638d2rRpaZd2JExLDDtKk2JVN1sy13wrfh6wFqpEr2II_eEOVAi1beiWAmuvLVA8Yy0GY9t0o8ZF_Ac0CN7HtfTQvBNxtFxdDNy0_W80ytt5SDw&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "600€ - 750€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "6974af08784064a044397dc79ab818",
+        "title": "Teleoperador/Teleoperadora Seguros Auto 9-15/10-16 (martes-sábado) Proyecto muy estable CONTRATO INDEFINIDO OPCIÓN TELETRABAJO MIXTO Madrid",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid Suanzes+ Opción Teletrabajo",
+        "link": "https://www.infojobs.net/madrid-suanzes-opcion-teletrabajo/teleoperador-teleoperadora-seguros-auto-9-15-10-16-martes-sabado-proyecto-muy-estable-contrato-indefinido-opcion-teletrabajo-mixto-madrid/of-i6974af08784064a044397dc79ab818",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 1,
+          "value": "Indefinido"
+        },
+        "subcategory": {
+          "id": 3122,
+          "value": "Televenta y marketing telefónico"
+        },
+        "salaryMin": {
+          "id": 140,
+          "value": "900 €"
+        },
+        "salaryMax": {
+          "id": 1090,
+          "value": "1.300 €"
+        },
+        "salaryPeriod": {
+          "id": 2,
+          "value": "Bruto/mes"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 6,
+          "value": "Intensiva - Mañana"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:27:56.000Z",
+        "updated": "2023-05-22T09:27:56.000Z",
+        "author": {
+          "id": "49e2c353254e9d8062324c5794db70",
+          "privateId": 34096345974,
+          "name": "SALESLAND",
+          "uri": "https://salesland.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/1a/1a03be7c-0dac-4ccc-b43c-a02cf3074b7d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjAyOTgyMzMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xYS8xYTAzYmU3Yy0wZGFjLTRjY2MtYjQzYy1hMDJjZjMwNzRiN2QiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.HjzM8fDjWFHqaBKXGZNS0OPb0QZ4aL4sOiH1xPMNSLc1JlQsuHLr8B0UE337SyMlvfjJPWQPriXTDzmibLg2W-I9Wa9EpD1RYpqkU3RFfRBZ7aE_jNZpxgAI7rLZdzWosZaLC6-f8Bko7Jmmr4WMmmvESYoX2cGbxLt8JtANQmkdeCUetRsWHJEtkjpRNZwBlWvWppKKdDiS2cN464aMqLSun-d2KVkARH7gGEiNnUKfOOAsI-_W0ZxE8jVagsWir1rZuA1EDTRmSlmgjwGDMdgd8Sc2nHbpHrku9UPvPfInZ6r0tVQWt3QXjRq4hML-fETk69hVIemLYJcC1MaLvw&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "-\tEstudios mínimos Educación Secundaria Obligatoria \n-\tImprescindible experiencia previa en venta, valorable en el sector seguros.\n-\tAgilidad en el uso de aplicaciones informáticas\n-\tEntusiasmo, compromiso y orientación a resultados.\n- Valorable certificado de discapacidad en vigor igual o superior al 33%",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 11,
+        "executive": false,
+        "salaryDescription": "900€ - 1.300€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "e0504b115b40a58b5c31c8eeabe12a",
+        "title": "Ejecutivo Comercial de Seguros. Alcorcón",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Alcorcón",
+        "link": "https://www.infojobs.net/alcorcon/ejecutivo-comercial-seguros.-alcorcon/of-ie0504b115b40a58b5c31c8eeabe12a",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:22:10.000Z",
+        "updated": "2023-05-22T09:22:10.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "-Persona motivada a desarrollarse en una Carrera como agente de seguros profesional.\r\n\r\n- Con actitud comercial y orientado a las necesidades de protección de las personas.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "c392dd0afa4e66815d835c007e6325",
+        "title": "Comercial de Seguros - Agente Exclusivo - Plan de Carrera",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/comercial-seguros-agente-exclusivo-plan-carrera/of-ic392dd0afa4e66815d835c007e6325",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 250,
+          "value": "12.000 €"
+        },
+        "salaryMax": {
+          "id": 270,
+          "value": "24.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:20:08.000Z",
+        "updated": "2023-05-22T09:20:08.000Z",
+        "author": {
+          "id": "968653524526202750763215250274",
+          "privateId": 49723701,
+          "name": "Helvetia Seguros, S.A.",
+          "uri": "https://helvetia.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/55/559fa7ce-2622-449e-9e58-32bcc2bc4880?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1Njg1NTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81NS81NTlmYTdjZS0yNjIyLTQ0OWUtOWU1OC0zMmJjYzJiYzQ4ODAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.jgvvkIL_rPkiCZs3wgPHueYMyhZk1IRJ1tfpdRUw85C71cH_kWj6QY4__NL-yM1GnZX5ZUyc1KHnmi54lc2mRTIfPhqk29_qwD0cCiSiqu1bEGajbiDG8lNCb2BwCJyZa4TBpuM_mBSNPtDxgLgkJ7IRxJfhS0Obv3ISyouF1cN9XbElGgaIIgDuaFAJ5VgQnrjC5mKZJDRREINFcEdiaIUQkSNGF9chRZKpTwzGT4yZU0BdF9deW6MXkgtm7c0I5IsMZAyf-ftFYcMJ7EaNKAjrBh1jZzRDTb03LiV5weu155shS_sFfDEoPZqGW1V5loDcyPfDpIYh-3_8WUeG2A&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Titulación de estudios finalizados en España u homologado en caso de país extranjero.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "12.000€ - 24.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "eb4b0b19024c9b90636ffd04578ce0",
+        "title": "Ejecutivo Comercial de Seguros. Madrid Sur.",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/ejecutivo-comercial-seguros.-madrid-sur./of-ieb4b0b19024c9b90636ffd04578ce0",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:20:05.000Z",
+        "updated": "2023-05-22T09:20:05.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Esfuerzo, ambición y afán de superación",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "83f235be3946b780a476b428107ba0",
+        "title": "Ejecutivo Comercial de Seguros. Madrid Norte.",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/ejecutivo-comercial-seguros.-madrid-norte./of-i83f235be3946b780a476b428107ba0",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:17:01.000Z",
+        "updated": "2023-05-22T09:17:01.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Esfuerzo, ambición y afán de superación",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "f388c0bbc74f429057175b6871a885",
+        "title": "Ejecutivo Comercial de Seguros. La Vaguada",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/ejecutivo-comercial-seguros.-vaguada/of-if388c0bbc74f429057175b6871a885",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T09:14:54.000Z",
+        "updated": "2023-05-22T09:14:54.000Z",
+        "author": {
+          "id": "963456524526202150253215455895",
+          "privateId": 48780797,
+          "name": "OCASO - CARRERA DE MEDIACIÓN PROFESIONAL",
+          "uri": "https://ocaso.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a933ba0e-9846-4a9a-afa2-d3feacc94328?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTE1Nzc0NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOTMzYmEwZS05ODQ2LTRhOWEtYWZhMi1kM2ZlYWNjOTQzMjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EyBp2JBp72rCD0b1BcwwbKpaiNDoI1enyS5d1FFm-r2E5hUUmJvn5VGcV8SW6AIFFA6ezQHX6Vt4xqgaLbr1fHS5J_v8QbacQ8fNuWI89JfnA1lrR35-JSHN4x9beIz3sLUT9b8yUHlVJK10Xw4tvYn92cJ8DamRnYRNik7cxN4lZ0NvkAyQiSqeIVcQDlmlN_2k-cIEAogPFV-vrM6klp9p7x1n-8Lk7W_zhUHn5JxUp3SmxQ6Op4SxpcAhGtjrUCjjMdSuqgT282d7aRZ4QGRPkbpRaPEZmj39OSpkop5xo62iR6IImV9Ef7EyoDQ3aar4Edyy3x2yOox3UGedYA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Esfuerzo, ambición y afán de superación",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "9a17fd193e4317983ed3b4e78718d4",
+        "title": "Asesor/a Inmobiliario/a Independiente",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-independiente/of-i9a17fd193e4317983ed3b4e78718d4",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 280,
+          "value": "30.000 €"
+        },
+        "salaryMax": {
+          "id": 330,
+          "value": "60.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T08:03:14.000Z",
+        "updated": "2023-05-22T08:03:14.000Z",
+        "author": {
+          "id": "36150524527003741243224850786",
+          "privateId": 152736936,
+          "name": "RE/MAX Welcome",
+          "uri": "https://www.infojobs.net/re-max-welcome/em-i36150524527003741243224850786",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/da/dae20b7d-c6b4-4a2a-b4ae-9c09e99890cc?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1ODI2MjEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kYS9kYWUyMGI3ZC1jNmI0LTRhMmEtYjRhZS05YzA5ZTk5ODkwY2MiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ijyJLzgXs2MvpTIgG51yZGXMWyKXe-6JU8DA19jWtIh290yBix7-LkVFd7y5VaP1UdlYfYl104XOXnCV1MofA_pE_lyE_srPSm_Bpow3dyLVUD88qev8p-t0yezUZrNoAP0ZtPi7Y2mlsWHS8iThYv67jqRvXJkFQ_-MbfIMVJvCUCGBFyP75UljrLiUvB1jXSXbaHqj-QcLYVmV615z6sm4Ulyl3a9sbK0-q7sV6SCxtTJNCc1bdr8AGtmV_8G3GK8jtusNfOORXZ2xd8S5oZyWgQkJhInrVQiNGyZvYZHBX-9D3_9KhxjGHhZf4IjyPg1TrP_z26HNEOKsYmrdzA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "30.000€ - 60.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "db868939de4b34b3df0aae2f501b2b",
+        "title": "COMERCIAL INMOBILIARIO/A. (MADRID)",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/comercial-inmobiliario-a.-madrid/of-idb868939de4b34b3df0aae2f501b2b",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 265,
+          "value": "21.000 €"
+        },
+        "salaryMax": {
+          "id": 650,
+          "value": "100.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T07:43:04.000Z",
+        "updated": "2023-05-22T07:43:04.000Z",
+        "author": {
+          "id": "663149524537301500746155355590",
+          "privateId": 1106854140,
+          "name": "REMAX ROSALES",
+          "uri": "https://www.infojobs.net/remax-rosales/em-i663149524537301500746155355590",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a2/a2654511-3c4b-4b9d-bdf2-0f1a019dba3d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjgyMDg2ODAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hMi9hMjY1NDUxMS0zYzRiLTRiOWQtYmRmMi0wZjFhMDE5ZGJhM2QiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.dqrOntqrRor91Qf4RCkoGCRNXiMDPUDh2cKMrGQMlAhdvFLHuEFB_kctgxEDE95W-SPXNwDp0jYW1nGK6OXfgVruljICXOzGw-w8UBAmo8pk_MfJ76P9g_Poo7j7NZuDIh6WC5va9FyQghITsjGUogCJoUVIomhEMwEEtYgFoUkqDEaJ96G2rQzlTu5fCL4TM1KdOUQFkp9wObxSHrs-e3jvRvlUDj8rQUi3yt-6YIgJ-1qzNaV4RvtXC1_fU3TzomnuXz9E70qpMa4T855iVt_5Utaotd1Jyt47Gx-TXGQEpGtW9XsZkJVJmlJl000y5OQ_G2mmcNCQkU4biVnPOQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Mentalidad empresarial\r\nEstar en régimen de AUTÓNOMO\r\nDotes comerciales\r\nTrato con personas\r\nActitud positiva",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 100.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "245635eaa2447fa199388fbd64301f",
+        "title": "Asesor/a Comercial Seguros e Inversiones (ÚLTIMO Proceso MAYO 2023)",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-comercial-seguros-inversiones-ultimo-proceso-mayo-2023/of-i245635eaa2447fa199388fbd64301f",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 5,
+          "value": "Otros contratos"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 1100,
+          "value": "1.400 €"
+        },
+        "salaryMax": {
+          "id": 1190,
+          "value": "2.800 €"
+        },
+        "salaryPeriod": {
+          "id": 2,
+          "value": "Bruto/mes"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T07:07:09.000Z",
+        "updated": "2023-05-22T07:07:09.000Z",
+        "author": {
+          "id": "26f51278fa40b6bbd5f891b250ece7",
+          "privateId": 40200011516,
+          "name": "Seguros Catalana Occidente - Madrid",
+          "uri": "https://catalanaoccidenteoficina.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/07/07128bfc-bdb5-499e-a97e-4e6f656dbf93?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTEwNjQzNDYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNy8wNzEyOGJmYy1iZGI1LTQ5OWUtYTk3ZS00ZTZmNjU2ZGJmOTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.RvTva9YLJuQBzfNVC4uHjGqUA2rGy5B4J0wdG3eis4lc0kFl_YYaM0sYzlYqDI74wCd5E9ILhW2BhlaSHXDuneftnb3MZ3Oh5yyn7ZARmXlI5fqIt0vaqbTafSGlZecNqqUy5hTVdzcrqDyWYDIdFtKmllPfBZVo7P-oN1U0u81Wuu51DG2BffRCgLMxzJhhb7DsoW3cxSunJNnfIXMmfKydQ1xExnGxRqkTnAvy-pORRUMM-pcwe9iQhDvvaQNAbqJS-XY0OS0ZjeNqEafYeYVGI5XlKhlwxR3Ng7LCjr42Y7YqztHPc5VGW0eJsgJMvWJUFzAggEWszLA1A4pTMQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Persona con perfil claramente comercial con alto nivel de comunicación, fluida y precisa. Ambiciosa, con ganas de crecer profesionalmente y orientada a resultados.\r\n\r\nExperiencia en ventas, en gestión de carteras de clientes, fidelización y seguimiento de ofertas. Campañas comerciales y atención al cliente.\r\n\r\nOrganizada, con capacidad de análisis, creativa, emprendedora y proactiva.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "1.400€ - 2.800€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "cf29c4d553491297ada96bd200f599",
+        "title": "¿Quieres hacer tus prácticas en RRHH?",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Alcobendas",
+        "link": "https://www.infojobs.net/alcobendas/quieres-hacer-tus-practicas-rrhh/of-icf29c4d553491297ada96bd200f599",
+        "category": {
+          "id": 30,
+          "value": "Calidad, producción e I+D"
+        },
+        "contractType": {
+          "id": 3,
+          "value": "Formativo"
+        },
+        "subcategory": {
+          "id": 3017,
+          "value": "Certificación de calidad"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 2,
+          "value": "Parcial - Mañana"
+        },
+        "study": {
+          "id": 125,
+          "value": "Grado"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-22T07:01:36.000Z",
+        "updated": "2023-05-22T07:01:36.000Z",
+        "author": {
+          "id": "967656524526202650523215655578",
+          "privateId": 48672640,
+          "name": "Bureau Veritas",
+          "uri": "https://bureauveritas.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/72/72427c9f-dd5a-4a3e-becc-75135eabca27?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1Nzk1NTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83Mi83MjQyN2M5Zi1kZDVhLTRhM2UtYmVjYy03NTEzNWVhYmNhMjciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.BFpEDhZmdRzrEVhZHqnA4vEe_Q0knkvgtzIq6QCS3MGeCgAohZW7xfV2iA-ur5HwZDLkWsJWF-4H2aj87DPfzIzgTL9xIScbV6HlGxfYA4H42oS4d1qqnV0C7i70OhO-DYmUt8Cmc98XyJXIApiMYU953jsHqkiI22eWV-3rR5nMqgvv6ZhGanf9E9A6bUAIdzdKbbklEEMX1eG71ROgWodGYQojX6HERRr01EnF--YXpBvdoANk7BMay_09TM8trvhg4tP3BstOI_5qK7P-PunRAv4zG745lKJxXOrxLiwuC_l0IZxkzvETVAFrrlT2J6TQADZ5ylA845FABuzQOg&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "d0a5d4ba674b469f657577c9394b1a",
+        "title": "Agente inmobiliario autónomo REMAX.",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/agente-inmobiliario-autonomo-remax./of-id0a5d4ba674b469f657577c9394b1a",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 270,
+          "value": "24.000 €"
+        },
+        "salaryMax": {
+          "id": 650,
+          "value": "100.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-21T10:01:38.000Z",
+        "updated": "2023-05-21T10:01:38.000Z",
+        "author": {
+          "id": "98565555505953687383842017275390801984",
+          "privateId": 30773253350,
+          "name": "RE/MAX CAPITAL",
+          "uri": "https://www.infojobs.net/re-max-capital/em-i98565555505953687383842017275390801984",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/44/44813f7d-f964-440a-962b-878f101b736a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MjczODE0MTAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80NC80NDgxM2Y3ZC1mOTY0LTQ0MGEtOTYyYi04NzhmMTAxYjczNmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.WIHxAXmnnsQb4jw6YmCwInsuqcLygydGgTKMNILvoqVO0r_JmRSi1_pS_W9QL37IWqDTQhHnQWznWplefYg-tlJpBhEDOAsdDvo3slvF7ZoK_ZwZi0BV-zdIxkqZ8KVb3AhlTjdBkK7NsbY9u2MNKqK2DcqBr8HYjXra6_uxwjrofPNZNl83du5CmTg1gmqv5vdT_3IT8Vm1gsVSl-2qMmRKlMCakKVFG7qfp3-Nh5bUte0LPo34MT9IGNrVkiIiyNc90hso8MSX9krBINkQ_7Cs8ke94eGL6nyZIbydMJrV-eIZYmCe9OmsfNHiEh740gZQfqmQkYZeK4cOC_WXaQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "24.000€ - 100.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "810f207a4c437ba40abedbf3ce6f4e",
+        "title": "ASESOR/A INMOBILIARIO  CENTURY 21 MADRID Y ZONA NOROESTE",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-century-21-madrid-zona-noroeste/of-i810f207a4c437ba40abedbf3ce6f4e",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 265,
+          "value": "21.000 €"
+        },
+        "salaryMax": {
+          "id": 650,
+          "value": "100.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-20T06:34:02.000Z",
+        "updated": "2023-05-20T06:34:02.000Z",
+        "author": {
+          "id": "98565557485454676978849017274890705357",
+          "privateId": 31979538758,
+          "name": "CENTURY 21 About Your House",
+          "uri": "https://century21.ofertas-trabajo.infojobs.net",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7e/7eda7fef-39e4-4f12-abb9-8546de1524a2?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE1MjU2MjcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83ZS83ZWRhN2ZlZi0zOWU0LTRmMTItYWJiOS04NTQ2ZGUxNTI0YTIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.DE9nab7YLFN1Xda6h0q_2heipyfX1iXy4_YPDggT0-VGYtHJ9ENSxObzrspvyd6oH38uKyCaesWMvvRen6ZKPI1Rv61TlsVzTOhAY5YgftTrmhv7e1G9jt8WXPS-CzUPdpHbxFFj3C7_PtiAT-5T0_OQx7XaDq0e63Ytj4iVmVeyH-9MsXxf4F7ZWNHC6rTJtbmGA_XZyX_AJmZ6ltTLGMAi6mC1aLWCmVh8BscO0gOBsEbbT1yJ5eT10ewARQE0DoWZ-LYtEF9dOmVPfTfzX3bnT3-kxMEmgHtFQAkUa7ryAJkEgYJLrDWLlcmIipqBKFCBe01YpAoMnJkOasbNMA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": true,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "¿CÚAL ES EL PERFIL DE ÉXITO DE UN ASESOR INMOBILIARIO EN ESTE SECTOR Y QUÉ NECESITAS?\r\n- Profesional proactivo/a con clara orientación a resultados.\r\n- Colaboración formato Régimen General Autónomos.\r\n- Excelente capacidad de comunicación y habilidades relacionales.\r\n- Conocimiento de herramientas informáticas nivel usuario.\r\n- Valorable experiencia en sector comercial / inmobiliario.\r\n- Valorable vehículo propio y residencia en zona Noroeste.\r\n- Proactivo\r\n- Orientado a objetivos\r\n- Responsabilidad, honestidad y compromiso.\r\n- Persona organizada y planificada",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 100.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "e081cb6b0f461cb0e42b12dd51237e",
+        "title": "Delegado/a de Zona",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/delegado-zona/of-ie081cb6b0f461cb0e42b12dd51237e",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 5,
+          "value": "Otros contratos"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 1300,
+          "value": "20.000 €"
+        },
+        "salaryMax": {
+          "id": 280,
+          "value": "30.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 1,
+          "value": "Completa"
+        },
+        "study": {
+          "id": 20,
+          "value": "Educación Secundaria Obligatoria"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-04-21T13:08:40.000Z",
+        "updated": "2023-05-19T18:30:02.000Z",
+        "author": {
+          "id": "98555057485652676580734023184266906625",
+          "privateId": 47794940526,
+          "name": "CAPITAL INVEST ATOM, SOCIEDAD LIMITADA.",
+          "uri": "https://www.infojobs.net/capital-invest-atom-sociedad-limitada./em-i98555057485652676580734023184266906625",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "20.000€ - 30.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "f8199d57914aca9929ca946f38fd59",
+        "title": "COMERCIAL INMOBILIARIO",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Pozuelo de Alarcón",
+        "link": "https://www.infojobs.net/pozuelo-de-alarcon/comercial-inmobiliario/of-if8199d57914aca9929ca946f38fd59",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 280,
+          "value": "30.000 €"
+        },
+        "salaryMax": {
+          "id": 330,
+          "value": "60.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 110,
+          "value": "Diplomatura"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-19T17:56:06.000Z",
+        "updated": "2023-05-19T17:56:06.000Z",
+        "author": {
+          "id": "98565550555549801111226015103456807941",
+          "privateId": 24648220522,
+          "name": "RE/MAX Properties",
+          "uri": "https://www.infojobs.net/re-max-properties/em-i98565550555549801111226015103456807941",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/94/9482e2e3-3e3c-4f46-a71b-49caac22adf0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTcwMTQyNjcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy85NC85NDgyZTJlMy0zZTNjLTRmNDYtYTcxYi00OWNhYWMyMmFkZjAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ZjUgzVKGodAUjMTnFovYK44N6pXVO3U0DSsbuuw6SfuabfC3pmUepYcgB9Wn0iqdKMiMuWqhHSAog9P7C52e-UwVHQoJKVS4MqKOEgREqhBLe3jNomYJlOLmjag9YW6XC_EejfjGmOol_RztAmUO5DQWV4oPkdZrNShcEwNluepR1tCNzeJTP2ftN4zScwPHJzSBkXheX-5-olTHhyN1bYIPctGv9RY0m7WR9cQcgTZ2OfRpi5RJLoS2xjk3OaBdHCs1n5jUiJyToH8qcOldoa0qnUSK-07I19jnpo7LbdFX4lm-LrlnPGsFSsEF1Y7Mf5gZ5aHHJ4358n5k-GB4aw&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "IMPORTANTE: \r\nFORMACIÓN SUPERIOR\r\nEXPERIENCIA EN OTROS SECTORES DE AL MENOS 10 AÑOS \r\nPASIÓN POR EL SECTOR INMOBILIARIO",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "30.000€ - 60.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "45bec47390407d9a45fd6e37a13156",
+        "title": "ASESOR/A INMOBILIARIO/A  RE/MAX ZIELO",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-re-max-zielo/of-i45bec47390407d9a45fd6e37a13156",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3131,
+          "value": "Agente comercial"
+        },
+        "salaryMin": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryMax": {
+          "id": 0,
+          "value": ""
+        },
+        "salaryPeriod": {
+          "id": 0,
+          "value": ""
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 35,
+          "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-16T13:49:25.000Z",
+        "updated": "2023-05-19T16:13:39.000Z",
+        "author": {
+          "id": "98545354555253737886692020303642217079",
+          "privateId": 40061147468,
+          "name": "RE/MAX Zielo",
+          "uri": "https://www.infojobs.net/re-max-zielo/em-i98545354555253737886692020303642217079",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/bc/bc916e2b-888a-45b2-86ca-0441a360af93?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2MTI4OTgzMTEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iYy9iYzkxNmUyYi04ODhhLTQ1YjItODZjYS0wNDQxYTM2MGFmOTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.c8hNplMF8bLzQl0WOGISMZ3ryyn5JuacYMe3cZ5cU3YXWTAr1dXBtqgVXOs_RGaOTgNLl37wppbEa1vACaZk54Y-afoq1aPACJizjyV9ybN_sjDkR8tt8hQIqHUW3Gs116ervIAdjOEI0kJ7GJqd7uPSKgbX_0mvhpejBy_Jn2YYC9BTd5fY05RmwFsUl8olE-388-N7m9Xj9DMcGmOVQ3XRpKBLNlUzr4zJLFW9H5wHYJHpwajPH3s8VjKq7ymAkG66WzJyGAnHnXpfimJ5vCmnYDn2plaj1zmzjSldqlayMSurowRBkdQ90dn58d23CbLUGvspfEvcz0zMMdZPnA&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "Perfil emprendedor y comercial.\r\n· Imprescindible estar dado de alta o posibilidad de alta en RETA (régimen de autónomos).",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Más de 30.000€",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      },
+      {
+        "id": "b0544f4ddc4be29d31fd8df54fc1a9",
+        "title": "ASESOR INMOBILIARIO RE/MAX FIDELITY",
+        "province": {
+          "id": 33,
+          "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/asesor-inmobiliario-re-max-fidelity/of-ib0544f4ddc4be29d31fd8df54fc1a9",
+        "category": {
+          "id": 190,
+          "value": "Comercial y ventas"
+        },
+        "contractType": {
+          "id": 10,
+          "value": "Autónomo"
+        },
+        "subcategory": {
+          "id": 3119,
+          "value": "Comercial"
+        },
+        "salaryMin": {
+          "id": 990,
+          "value": "45.000 €"
+        },
+        "salaryMax": {
+          "id": 500,
+          "value": "66.000 €"
+        },
+        "salaryPeriod": {
+          "id": 3,
+          "value": "Bruto/año"
+        },
+        "experienceMin": {
+          "id": 1,
+          "value": "No Requerida"
+        },
+        "workDay": {
+          "id": 10,
+          "value": "Indiferente"
+        },
+        "study": {
+          "id": 50,
+          "value": "Bachillerato"
+        },
+        "teleworking": {
+          "id": 3,
+          "value": "Híbrido"
+        },
+        "published": "2023-05-19T15:37:02.000Z",
+        "updated": "2023-05-19T15:37:02.000Z",
+        "author": {
+          "id": "98565554564754821011091017124806700609",
+          "privateId": 30454553442,
+          "name": "Remax Fidelity",
+          "uri": "https://www.infojobs.net/remax-fidelity/em-i98565554564754821011091017124806700609",
+          "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b0/b0aa5187-ffb1-46a3-8b15-76499b813b08?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjQ1NTE2MjYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iMC9iMGFhNTE4Ny1mZmIxLTQ2YTMtOGIxNS03NjQ5OWI4MTNiMDgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bnuJmtVdXmMxeB4LVkfzrvoI_e6lXIMnThADqa72qjqJXukqLqyGr6usRDtBcItAf1a4J1yirNCO1GufeDgg3ihUj0K4wxh-8r273XAgWVBTOf4Wmcj2zJjqWVDW7SsTGPIyuRfmzY_zc1Wj6guT2WohllN-gwmmaQY7M9KN1KThVQJCTj-kPhbF-Sf1cRGCVjysp3v6ZZYvu6_CxTy1ae9gm9z0pHnLyN8PPqkYVOmmdROv0vldMmKvO5BniuF3hJ9tt57ClxJFsOMzp1x8PPEE0c9zYpafUraj1U4UgQDeloowZbUgCUKRDA2PTAENtgUTmmroKiJaAskRVIkdrQ&AccessKeyId=d724d9a53d95a810",
+          "corporateResponsive": false,
+          "showCorporativeHeader": false
+        },
+        "requirementMin": "-Buena presencia, comunicación y entusiasmo.\r\n- Experiencia en gestión y atención al cliente.\r\n- Informática básica nivel usuario",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "45.000€ - 66.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+      }
+    ]
+  }

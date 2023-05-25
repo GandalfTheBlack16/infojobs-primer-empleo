@@ -2,10 +2,11 @@ import './App.css'
 import { FilterBox } from './components/FilterBox'
 import { Logo } from './components/Logo'
 import OfferList from './components/OfferList'
+import { OfferContextProvider } from './contexts/OfferContext'
 
 function App () {
   return (
-    <>
+    <OfferContextProvider>
       <header>
         <Logo/>
         <div>
@@ -16,7 +17,7 @@ function App () {
         <FilterBox />
         <OfferList />
       </main>
-    </>
+    </OfferContextProvider>
   )
 }
 

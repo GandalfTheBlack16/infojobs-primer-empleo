@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { type Offer } from '../types'
-import { type OfferRequest, getOffers } from '../services/getOffers'
+import { type OfferRequest, type Offer } from '../types'
+import { getOffers } from '../services/getOffers'
 
 export function useOffer () {
   const [offers, setOffers] = useState<Offer[]>()

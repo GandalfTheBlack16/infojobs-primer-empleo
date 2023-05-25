@@ -18,3 +18,16 @@ export interface Author {
   uri: string
   logoUrl?: string
 }
+
+export interface OfferRequest {
+  category: string
+  isTeleworking: boolean
+  location?: string
+}
+
+export interface OfferContextHandler {
+  offers: Offer[] | undefined
+  loading: boolean
+  error: string
+  fetchData: (req: OfferRequest) => Promise<void>
+}

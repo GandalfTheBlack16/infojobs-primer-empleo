@@ -1,13 +1,15 @@
-import { useState } from 'react'
+import { useContext, useState } from 'react'
 import { type Category } from '../types'
 import { type SingleValue } from 'react-select'
-import { getOffers } from '../services/getOffers'
+import { OfferContext } from '../contexts/OfferContext'
 
 export function useFilterbox () {
   // TODO: Replace with reducer
   const [category, setCategory] = useState<string>('')
   const [isTelework, setIsTelework] = useState<boolean>(false)
   const [location, setLocation] = useState<string>('')
+
+  const { fetchData } = useContext(OfferContext)
 
   const formInvalid = !category || !location
 
@@ -25,12 +27,9 @@ export function useFilterbox () {
     setLocation(value)
   }
 
-  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault()
-    // TODO: Segregate responsability to parent component. There define another hook to handle offer fetching
-    getOffers({ category, isTeleworking: isTelework, location })
-      .then(result => { console.log(result) })
-      .catch(err => { console.log(err) })
+    await fetchData({ category, isTeleworking: isTelework, location })
   }
 
   return {

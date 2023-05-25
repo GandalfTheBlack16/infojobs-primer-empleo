@@ -1,10 +1,4 @@
-import { type Offer } from '../types'
-
-export interface OfferRequest {
-  category: string
-  isTeleworking: boolean
-  location?: string
-}
+import { type OfferRequest, type Offer } from '../types'
 
 interface OfferResponse {
   id: any

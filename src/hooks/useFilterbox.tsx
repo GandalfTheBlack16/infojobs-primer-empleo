@@ -1,15 +1,20 @@
-import { useContext, useState } from 'react'
+import { useContext, useEffect, useState } from 'react'
 import { type Category } from '../types'
 import { type SingleValue } from 'react-select'
 import { OfferContext } from '../contexts/OfferContext'
+import { useGeolocation } from './useGeolocation'
 
 export function useFilterbox () {
-  // TODO: Replace with reducer
   const [category, setCategory] = useState<string>('')
   const [isTelework, setIsTelework] = useState<boolean>(false)
   const [location, setLocation] = useState<string>('')
 
+  const { city, country, disabled, error } = useGeolocation()
   const { fetchData } = useContext(OfferContext)
+
+  useEffect(() => {
+    setLocation(city)
+  }, [city])
 
   const formInvalid = !category || !location
 
@@ -36,6 +41,12 @@ export function useFilterbox () {
     formInvalid,
     isTelework,
     location,
+    geolocationDetails: {
+      city,
+      country,
+      disabled,
+      error
+    },
     handleCategoryChange,
     handleTeleworkingChange,
     handleLocation,

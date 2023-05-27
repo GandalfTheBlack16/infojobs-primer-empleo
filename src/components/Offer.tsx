@@ -22,7 +22,7 @@ export function Offer (props: { offer: OfferType }) {
 
                 }
                 <h4>
-                    Oferta publicada por <a href={offer.author.uri}>{offer.author.name}</a>
+                    Oferta publicada por <a href={offer.author.uri} target='_blank' rel='noreferrer'>{offer.author.name}</a>
                 </h4>
             </div>
             <a href={offer.link} target='_blank' rel="noreferrer">

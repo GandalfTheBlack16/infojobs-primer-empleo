@@ -5,7 +5,8 @@ import { type OfferContextHandler } from '../types'
 export const OfferContext = createContext<OfferContextHandler>({
   offers: [],
   loading: false,
-  error: ''
+  error: '',
+  fetchData: async () => {}
 })
 
 export function OfferContextProvider ({ children }: { children: React.ReactNode }) {

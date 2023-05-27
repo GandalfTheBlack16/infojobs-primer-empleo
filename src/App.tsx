@@ -1,6 +1,6 @@
 import './App.css'
 import { FilterBox } from './components/FilterBox'
-import { Logo } from './components/Logo'
+import { Logo } from './components/ui/Logo'
 import OfferList from './components/OfferList'
 import { OfferContextProvider } from './contexts/OfferContext'
 

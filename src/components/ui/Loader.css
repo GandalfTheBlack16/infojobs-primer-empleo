@@ -3,7 +3,7 @@
   height: 70px;
   background: #fff;
   border-radius: 50%;
-  animation: roll 1s ease-in-out infinite alternate;
+  animation: roll 1s ease-in-out infinite;
   margin: 2rem auto;
 }
 
@@ -17,9 +17,9 @@
 }
 @keyframes roll {
   0% {
-    transform: translateX(-150%) rotate(0deg) ;
+    transform: rotate(0deg);
   }
   100% {
-    transform:  translateX(150%) rotate(360deg);
+    transform: rotate(360deg);
   }
 }

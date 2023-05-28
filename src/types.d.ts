@@ -22,7 +22,7 @@ export interface Author {
 export interface OfferRequest {
   category: string
   isTeleworking: boolean
-  location?: string
+  location: string
 }
 
 export interface OfferContextHandler {

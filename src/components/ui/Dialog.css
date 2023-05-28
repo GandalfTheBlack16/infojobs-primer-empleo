@@ -1,0 +1,25 @@
+.dialog__container {
+    display: block;
+    position: absolute;
+    z-index: 999;
+    transform: translateY(65px);
+    padding: 1.5rem;
+    border: solid 1.5px #187816;
+    border-radius: 8px;
+    background-color: #187816a2;
+    color: #fff;
+}
+
+.dialog__container.fadeIn {
+    opacity:1;
+    width: max-content;
+    height: max-content;
+    transition: width 0.5s, height 0.5s, opacity 0.5s 0.5s; 
+}
+
+.dialog__container.fadeOut {
+    opacity:0;
+    width:0;
+    height:0;
+    transition: width 0.5s 0.5s, height 0.5s 0.5s, opacity 0.5s;
+}

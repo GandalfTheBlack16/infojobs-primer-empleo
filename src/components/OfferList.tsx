@@ -6,13 +6,14 @@ import { Loader } from './ui/Loader'
 
 export default function OfferList () {
   const { offers, loading } = useContext(OfferContext)
-
+  
   return (
         <div className="list__container">
             {
               loading
                 ? <Loader />
                 : (
+                    !offers ? <h3>Elija una categoria, la opcion de teletrabajo y una provincia para continuar</h3> : 
                     offers && offers.length > 0
                       ? (
                         <ul>

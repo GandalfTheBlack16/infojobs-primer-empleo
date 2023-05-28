@@ -2,11 +2,23 @@ import './FilterBox.css'
 import { useFilterbox } from '../hooks/useFilterbox'
 import { useCategories } from '../hooks/useCategories'
 import Select from 'react-select'
+import { Dialog } from './ui/Dialog'
 
 export function FilterBox () {
   const { categories, loading } = useCategories()
 
-  const { formInvalid, isTelework, location, handleCategoryChange, handleTeleworkingChange, handleLocation, handleSubmit } = useFilterbox()
+  const { 
+    formInvalid,
+    isTelework,
+    location,
+    geolocationDetails,
+    handleCategoryChange,
+    handleTeleworkingChange,
+    handleLocation,
+    handleSubmit
+  } = useFilterbox()
+
+  const { city, country, disabled: geoDisabled, error: geoError } = geolocationDetails
 
   return (
         <form
@@ -49,6 +61,13 @@ export function FilterBox () {
                   value={location}
                   onChange={handleLocation}
                 />
+                {
+                  !geoDisabled && 
+                  !geoError &&
+                    <Dialog>
+                      <span>Localizacion configurada por tu posicion actual: <b>{ city }, { country }</b> </span>
+                    </Dialog>
+                }
             </div>
             <button
               type='submit'

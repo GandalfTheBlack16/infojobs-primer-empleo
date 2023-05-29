@@ -3,23 +3,32 @@
     position: absolute;
     z-index: 999;
     transform: translateY(65px);
-    padding: 1.5rem;
     border: solid 1.5px #187816;
     border-radius: 8px;
     background-color: #187816a2;
     color: #fff;
 }
 
-.dialog__container.fadeIn {
-    opacity:1;
-    width: max-content;
-    height: max-content;
-    transition: width 0.5s, height 0.5s, opacity 0.5s 0.5s; 
+.dialog__container.hidden {
+    display: none;
+} 
+
+.dialog__actions {
+    position: absolute;
+    top: 0.2rem;
+    right: 0.6rem;
+    border: 1px solid white;
+    background-color: #ffffff26;
+    border-radius: 11px;
+    padding: 0 6px;
+    height: 25px;
+    width: 12px;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
 }
 
-.dialog__container.fadeOut {
-    opacity:0;
-    width:0;
-    height:0;
-    transition: width 0.5s 0.5s, height 0.5s 0.5s, opacity 0.5s;
+.dialog__content {
+    padding: 1.5rem;
+    margin-top: .5rem;
 }

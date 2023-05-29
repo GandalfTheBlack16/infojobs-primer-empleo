@@ -7,7 +7,7 @@ import { Dialog } from './ui/Dialog'
 export function FilterBox () {
   const { categories, loading } = useCategories()
 
-  const { 
+  const {
     formInvalid,
     isTelework,
     location,
@@ -18,7 +18,7 @@ export function FilterBox () {
     handleSubmit
   } = useFilterbox()
 
-  const { city, country, disabled: geoDisabled, error: geoError } = geolocationDetails
+  const { city, country, disabled: geoDisabled, error: geoError, ready: geoReady } = geolocationDetails
 
   return (
         <form
@@ -62,8 +62,9 @@ export function FilterBox () {
                   onChange={handleLocation}
                 />
                 {
-                  !geoDisabled && 
+                  !geoDisabled &&
                   !geoError &&
+                  geoReady &&
                     <Dialog>
                       <span>Localizacion configurada por tu posicion actual: <b>{ city }, { country }</b> </span>
                     </Dialog>

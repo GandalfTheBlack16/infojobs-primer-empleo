@@ -9,7 +9,7 @@ export function useFilterbox () {
   const [isTelework, setIsTelework] = useState<boolean>(false)
   const [location, setLocation] = useState<string>('')
 
-  const { city, country, disabled, error } = useGeolocation()
+  const { city, country, disabled, error, loaded } = useGeolocation()
   const { fetchData } = useContext(OfferContext)
 
   useEffect(() => {
@@ -45,7 +45,8 @@ export function useFilterbox () {
       city,
       country,
       disabled,
-      error
+      error,
+      ready: loaded
     },
     handleCategoryChange,
     handleTeleworkingChange,

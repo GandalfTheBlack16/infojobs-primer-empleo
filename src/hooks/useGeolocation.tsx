@@ -6,6 +6,7 @@ export function useGeolocation () {
   const [country, setCountry] = useState<string>('')
   const [disabled, setDisabled] = useState<boolean>(false)
   const [error, setError] = useState<string>('')
+  const [loaded, setLoaded] = useState<boolean>(false)
 
   useEffect(() => {
     if (!navigator.geolocation) {
@@ -17,6 +18,7 @@ export function useGeolocation () {
           const locationCompounds = await getReverseGeocoding({ latitude: coords.latitude, longitude: coords.longitude })
           setCity(locationCompounds.at(0) ?? '')
           setCountry(locationCompounds.at(-1) ?? '')
+          setLoaded(true)
         } catch (error) {
           setError(error as string)
         }
@@ -30,6 +32,7 @@ export function useGeolocation () {
     city,
     country,
     disabled,
-    error
+    error,
+    loaded
   }
 }
